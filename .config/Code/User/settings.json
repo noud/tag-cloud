@@ -1,0 +1,20 @@
+{
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "workbench.startupEditor": "welcomePage",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": -2,
+    "[typescript]": {},
+    "workbench.editor.showTabs": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "hashtags": {
+		"tags": [
+			"React",
+			"GraphQL",
+			"SaaS",
+			"Laravel"
+		]    
+    }
+}
+
+~/.config/Code/User/settings.json
