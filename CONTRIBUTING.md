@@ -21,7 +21,7 @@ Always write a clear log message for your commits. One-line messages are fine fo
 Start reading the code and you'll get the hang of it. The code is optimized for readability:
 
   * [CSV](https://en.wikipedia.org/wiki/Comma-separated_values),[RFC 4180](https://tools.ietf.org/html/rfc4180)
-  * [ESLint](https://eslint.org),[ECMAScript](http://ecma-international.org/ecma-262/10.0)-2019 [ISO/IEC 16262:2011](https://www.iso.org/standard/55755.html)
+  * [ESLint](https://eslint.org),[ECMA](http://ecma-international.org) [ISO/IEC 16262:2011](https://www.iso.org/standard/55755.html)
   * [Markdown](https://daringfireball.net/projects/markdown),[informal](https://daringfireball.net/projects/markdown/syntax)
 
 Thanks,
